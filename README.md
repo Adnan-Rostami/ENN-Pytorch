@@ -1,6 +1,6 @@
 # ENN
 
-Reference article: "> D. Karaboga, "An idea based on honey bee swarm for numerical optimization," *Technical Report-TR06*, Erciyes University, Engineering Faculty, Computer Engineering Department, 2005."
+Reference to article: "A. Sharma and R. Patel, “Transaction Fraud Detection Using Artificial Bee Colony (ABC) Based Feature Selection and Enhanced Neural Network (ENN) Classifier,” *International Journal of Mechanical Engineering*, vol. 7, no. 3, pp. 45–52, Mar. 2022."
 
 
 
